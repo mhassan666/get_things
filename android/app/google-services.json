@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684144505252",
+    "project_id": "getthings-7925e",
+    "storage_bucket": "getthings-7925e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684144505252:android:4bd4d37390b26a9d981131",
+        "android_client_info": {
+          "package_name": "com.codesol.get_things"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-hnEYpToZfR4Re06w4miABDq3n3xVaFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
