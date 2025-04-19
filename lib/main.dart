@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
+import 'package:get_things/pages/bottomnav.dart';
 import 'package:get_things/pages/home.dart';
 import 'package:get_things/pages/onboarding.dart';
 import 'firebase_options.dart';
@@ -40,7 +41,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: Home(),
+      home: Bottomnav(),
     );
   }
 }
