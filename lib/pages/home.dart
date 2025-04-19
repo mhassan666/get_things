@@ -33,7 +33,7 @@ class _HomeState extends State<Home> {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     Text(
-                      'Hey, Hassan',
+                      'Hey, Hassan liaqat',
                       style: AppWidget.boldTextFeildStyle(),
                     ),
                     Text(
